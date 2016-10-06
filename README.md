@@ -1,2 +1,8 @@
 # fred199169.github.io
-blog of zilong
+
+## a place for zz
+
+> * for fun
+> * for learn
+> * for work
+> * for happiness
